@@ -80,11 +80,10 @@ window.INVITACION_CONFIG = {
       "fechaEnvio": "entry.672472446",
       "origen": "entry.1003645276"
     },
-    "idConfirmacion": "MaryArango",
+    "idConfirmacion": "Cardenas",
     "cupos": 1,
     "invitados": [
-      "Mary Arango",
-      ""
+      "Alejandro Cardenas"
     ]
   },
   "multimedia": {
